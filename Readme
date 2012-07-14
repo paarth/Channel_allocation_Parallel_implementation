@@ -1,0 +1,5 @@
+Implementation of Static channel borrowing scheme with hybrid channel borrowing under 2 scenarios: 
+	       - Single processor 
+	       - Multi-Processor
+Also,
+Analysing and noted call blocking probabilities in each case.
