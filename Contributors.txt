@@ -1,0 +1,7 @@
+Static channel allocation using hybrid channel borrowing.
+
+Parth Dandiwala
+Gopal Rander
+Kunal Kapadia	
+
+
